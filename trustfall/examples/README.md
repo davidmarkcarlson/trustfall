@@ -9,7 +9,7 @@ Each project comes with example queries in an `example_queries` directory.
 
 ## Querying CSV files: aviation weather reports (METAR)
 
-The [weather](weather/) demo project queries meteorogical data from the US Aviation Weather Center: [https://www.aviationweather.gov/metar](https://www.aviationweather.gov/metar)
+The [weather](weather/) demo project queries meteorogical data from the US Aviation Weather Center: [https://www.aviationweather.gov/metar](https://www.aviationweather.gov/data/metar)
 
 This data is available as a CSV file. The demo project downloads and parses this file, then runs Trustfall queries on it.
 
